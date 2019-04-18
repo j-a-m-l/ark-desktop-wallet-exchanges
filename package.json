@@ -1,0 +1,25 @@
+{
+  "name": "ark-desktop-wallet-exchanges",
+  "title": "Exchanges on the wallet",
+  "version": "0.1.0",
+  "description": "Use exchanges that support ARK directly on the wallet",
+  "main": "index.js",
+  "permissions": [
+  	"COMPONENTS",
+  	"ROUTES",
+    "MENU_ITEMS"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-a-m-l/ark-desktop-wallet-exchanges.git"
+  },
+  "keywords": [
+    "ark"
+  ],
+  "author": "Juan A. Martín <juan@ark.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-a-m-l/ark-desktop-wallet-exchanges/issues"
+  },
+  "homepage": "https://github.com/j-a-m-l/ark-desktop-wallet-exchanges#readme"
+}
